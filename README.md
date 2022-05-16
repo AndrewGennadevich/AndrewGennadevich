@@ -3,9 +3,9 @@
 - 👀 I’m interested in your mind 
 - 🌱 I’m currently learning - World of IT 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - andrew.gennadevich@mail.ru
-                     - +375447039466
-                     - tg @AndrewGennadevich
+- 📫 How to reach me - andrew.gennadevich@mail.ru <br>
+                     - +375447039466 <br>
+                     - tg @AndrewGennadevich <br>
 <!---
 AndrewGennadevich/AndrewGennadevich is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
