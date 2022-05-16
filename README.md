@@ -3,7 +3,7 @@
 - 👀 I’m interested in your mind 
 - 🌱 I’m currently learning - World of IT 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - andrew.gennadevich@mail.ru <br>
+- 📫 How to reach me <br> - andrew.gennadevich@mail.ru <br>
                      - +375447039466 <br>
                      - tg @AndrewGennadevich <br>
 <!---
