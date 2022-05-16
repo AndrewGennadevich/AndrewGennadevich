@@ -1,3 +1,4 @@
+![Imgur Image](https://imgur.com/gallery/9ppyNCl)
 - 👋 Hi, I’m @AndrewGennadevich
 - 👀 I’m interested in your mind 
 - 🌱 I’m currently learning - World of IT 
